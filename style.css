@@ -1,0 +1,44 @@
+.Heading {
+  font-size: 2.5em;
+  color: #28038b;
+  margin-bottom: 0.5em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  background-color: bisque;
+}
+p {
+  font-size: 1.2em;
+  color: #731111;
+  line-height: 1.6;
+  margin: 0.5em 0;
+  font-family: Arial, sans-serif;
+  text-align: justify;
+}
+.midheading {
+  font-size: 2em;
+  color: #038b74;
+  margin-top: 1em;
+  font-family: "Times New Roman", "Comic Sans MS", Calibri, "Trebuchet MS",
+    sans-serif;
+  text-align: center;
+  background-color: rgb(159, 184, 243);
+}
+.tailHeading {
+  font-size: 2em;
+  color: #b80338;
+  margin-top: 1em;
+  font-family: "Courier New", "Lucida Console", monospace;
+  text-align: center;
+  background-color: rgb(243, 159, 159);
+}
+.question1 {
+  font-weight: bold;
+  color: #1f9106;
+  font-size: medium;
+}
+body {
+  background-color: #e2d5d5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
